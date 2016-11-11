@@ -1,3 +1,1 @@
-require 'sprockets/coffee-react'
-require 'sprockets/coffee-react-script'
-require 'sprockets/coffee-react/engine'
+require 'sprockets/coffee_react'
